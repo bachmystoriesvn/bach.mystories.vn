@@ -2,7 +2,7 @@ title: 'Special Japanese word in IT industry'
 author: Bach Nguyen
 tags: technical
 date: 2022-01-07 14:14:14
-thumbnail: https://i.imgur.com/uarzO5N.jpeg
+thumbnail: https://i.imgur.com/IRLV8TJ.jpg
 ---
 My teammate told to me `APIをタタキましたか` and I don't get the ideas of what it means. It turns out he asked me whether I tried to call to the API.
 
