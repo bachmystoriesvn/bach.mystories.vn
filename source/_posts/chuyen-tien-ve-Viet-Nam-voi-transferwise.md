@@ -5,7 +5,7 @@ tags: experience
 thumbnail: https://i.imgur.com/AFZUfgE.png
 ---
 
-Ở Nhật có vẻ khá phổ biến chuyện chuyển tiền tay 3 (chuyển Yên cho người cần Yên và người đó sẽ chuyển VNĐ cho người nhà mình), tỉ giá thường sẽ tốt hơn, nhanh hơn so với ngân hàng; thế nhưng khả năng mất tiền khá cao. Hơn nữa khi chuyển tiền tay 3 thì sẽ không thể làm 1 số thủ tục như khai báo người phụ thuộc được. Gần đây mình mới chuyển tiền qua [TransferWise](https://transferwise.com/u/xuann12) và thấy khá ổn (tỉ giá, thời gian,...) nên xin viết lại vài dòng giới thiệu dịch vụ.
+Ở Nhật có vẻ khá phổ biến chuyện chuyển tiền tay 3 (chuyển Yên cho người cần Yên và người đó sẽ chuyển VNĐ cho người nhà mình), tỉ giá thường sẽ tốt hơn, nhanh hơn so với ngân hàng; thế nhưng khả năng mất tiền khá cao. Hơn nữa khi chuyển tiền tay 3 thì sẽ không thể làm 1 số thủ tục như khai báo người phụ thuộc được. Gần đây mình mới chuyển tiền qua [Wise](https://wise.com/invite/u/xuann12) và thấy khá ổn (tỉ giá, thời gian,...) nên xin viết lại vài dòng giới thiệu dịch vụ.
 
 <!-- more -->
 
