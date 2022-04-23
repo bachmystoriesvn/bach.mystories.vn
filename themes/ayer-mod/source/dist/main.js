@@ -150,15 +150,16 @@ parcelRequire = function(e, r, t, n) {
     }]
 }, {}, ["epB2"], null)
 
-$.ajax({
-    type: "HEAD", url: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
-    dataType: 'jsonp',
-    crossDomain: true,
-    success: function (data, text) {
-        // skip
-    },
-    error: function (request, status, error) {
-        if(request.status==404)
-            alert("Please disable adblock, it helps me running this blog :)");
-    }
-});
+// ADBLOCK checking - skip
+// $.ajax({
+//     type: "HEAD", url: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+//     dataType: 'jsonp',
+//     crossDomain: true,
+//     success: function (data, text) {
+//         // skip
+//     },
+//     error: function (request, status, error) {
+//         if(request.status==404)
+//             alert("Please disable adblock, it helps me running this blog :)");
+//     }
+// });
