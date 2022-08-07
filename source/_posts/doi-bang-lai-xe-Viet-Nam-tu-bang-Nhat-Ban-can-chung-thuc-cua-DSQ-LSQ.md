@@ -1,6 +1,6 @@
 ---
 title: Đổi bằng lái xe Nhật Bản sang Việt Nam đã khó hơn - cần chứng thực của ĐSQ  
-date: 2021-07-22 10:10:10
+date: 2022-08-07 10:10:10
 tags:
     - bachpack
     - driving
