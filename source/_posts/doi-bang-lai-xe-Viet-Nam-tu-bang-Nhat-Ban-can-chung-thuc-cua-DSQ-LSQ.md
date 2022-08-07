@@ -25,7 +25,14 @@ Theo luật thì mình cần có các giấy tờ sau:
 
 Theo như mình hiểu thì cần có bản dịch bằng lái xe có bảo chứng của 1 trong 2 đơn vị: cơ quan công chứng hoặc Đại sứ quán, Lãnh sự quán (ở đây thì là ĐSQ/LSQ Nhật Bản). Và có 1 vài người bạn của mình đã từng làm thủ tục thì chỉ cần giấy tờ có dịch công chứng của các văn phòng công chứng thôi là đủ. Thế nhưng khi mình mang giấy tờ như vậy thì yêu cầu có chứng nhận của Đại sứ quán Nhật Bản tại Việt Nam thì mới chấp nhận (và để kiểm chứng thì mình đã mang lên cả 2 đơn vị là Sở Giao thông Vận tải Thái Nguyên và Hà Nội thì đều bị từ chối). Dù có cố gắng ngồi lại viện luật lệ ra thì được giải thích thêm là do bằng giả nhiều quá nên phải như vậy...
 
-Đến đây thì sau khi xem thêm thì các giấy tờ của ĐSQ thì còn cần làm thủ tục hợp pháp hoá lãnh sự, dịch công chứng,... nữa. Do thời gian giới hạn nên mình đã bỏ cuộc và sẽ làm vào một lần nào đó trong tương lai. 
+Đến đây thì sau khi xem thêm thì các giấy tờ của ĐSQ thì còn cần làm thủ tục hợp pháp hoá lãnh sự, dịch công chứng,... nữa. Do thời gian giới hạn nên mình đã bỏ cuộc và sẽ làm vào một lần nào đó trong tương lai.
+
+Theo hướng dẫn trình tự thực hiện thì: 
+```
+- Trường hợp phát hiện có nghi vấn về giấy phép lái xe nước ngoài, cơ quan cấp đổi giấy phép lái xe có văn bản đề nghị Đại sứ quán, Lãnh sự quán của quốc gia cấp giấy phép lái xe tại Việt Nam xác minh.
+```
+
+Vậy là việc xác minh là do Sở Giao thông vận tải phải liên hệ với Đại sứ quán để làm việc; thế nhưng các bác lại quyết định đẩy phần làm việc này về phía người nộp đơn luôn :-?
 
 Các bạn làm hồ sơ thì nên đến hỏi trước cho đỡ mất công chuẩn bị/đi lại nhé.
 
