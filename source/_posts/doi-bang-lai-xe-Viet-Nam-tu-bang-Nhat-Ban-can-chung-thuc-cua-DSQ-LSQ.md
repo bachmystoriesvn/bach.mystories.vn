@@ -9,7 +9,17 @@ tags:
 Việt Nam và Nhật tham gia 2 công ước quốc tế khác nhau (Việt Nam - Vienna, Nhật Bản - Geneva) nên bằng lái xe không được công nhận lẫn nhau. Thế nhưng tại Việt Nam có thể đổi bằng lái xe Nhật sang Việt Nam ở Sở giao thông vận tải các tỉnh.  
 
 <!-- more -->
+Đính chính: theo như trên web của [sở GTVT Hà Nội](https://sogtvt.hanoi.gov.vn/tra-cuu-thu-tuc-hanh-chinh?p_p_id=1_WAR_portaltthcportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_1_WAR_portaltthcportlet_id=13650&_1_WAR_portaltthcportlet_coQuan=2711&_1_WAR_portaltthcportlet_redirect=%2Ftra-cuu-thu-tuc-hanh-chinh%3Fp_p_id%3D1_WAR_portaltthcportlet%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-1%26p_p_col_count%3D1%26_1_WAR_portaltthcportlet_mvcPath%3D%252Fhtml%252Fportlet%252Ftthc%252Fview.jsp&_1_WAR_portaltthcportlet_mvcPath=%2Fhtml%2Fportlet%2Ftthc%2F%2Fthutuc_detail.jsp&_1_WAR_portaltthcportlet_linhVuc=4828&fbclid=IwAR2uZh4RoCDUDfC2SCdV1deDj4B51RACMn6SrDTXZtm65TKGn6SWg5jvvY8) thì dễ hiểu hơn và cần hợp pháp hoá lãnh sự.
 
+```
+* Đối với người Việt Nam:
+- Đơn đề nghị đổi giấy phép lái xe theo mẫu;
+- Bản sao hộ chiếu (phần số hộ chiếu, họ tên và ảnh người được cấp, thời hạn sử dụng và trang thị thực nhập cảnh vào Việt Nam);
+- Bản sao giấy chứng minh nhân dân hoặc thẻ căn cước công dân;
+- Bản dịch GPLX nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan Công chứng hoặc Đại sứ quán, Lãnh sự quán tại Việt Nam mà người dịch làm việc, đóng dấu giáp lai với bản sao GPLX;
+-  Xuất trình hợp pháp hóa lãnh sự giấy phép lái xe hoặc bằng lái xe của nước ngoài theo quy định của pháp luật về chứng nhận lãnh sự, hợp pháp hóa lãnh sự, trừ các trường hợp được miễn trừ theo quy định của pháp luật.
+```
+<hr/>
 Chi tiết về hồ sơ này xem tại trang web Dịch vụ công Quốc gia tại [đây](https://dichvucong.gov.vn/p/home/dvc-tthc-thu-tuc-hanh-chinh-chi-tiet.html?ma_thu_tuc=170153).
 
 Hoặc là ở các tỉnh thành thì đều có Trung tâm Phục vụ hành chính công như là ở [đây](https://dichvucong.thainguyen.gov.vn/dich-vu-cong?p_p_id=thutuchanhchinh_WAR_uniportalportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-3&p_p_col_count=1&_thutuchanhchinh_WAR_uniportalportlet_maLinhVuc=-1&_thutuchanhchinh_WAR_uniportalportlet_maThuTuc=1.002796.000.00.00.H55&_thutuchanhchinh_WAR_uniportalportlet_jspPage=%2Fhtml%2Fthutuchanhchinh%2Fchitiettthc.jsp&_thutuchanhchinh_WAR_uniportalportlet_idCoQuan=-1)
