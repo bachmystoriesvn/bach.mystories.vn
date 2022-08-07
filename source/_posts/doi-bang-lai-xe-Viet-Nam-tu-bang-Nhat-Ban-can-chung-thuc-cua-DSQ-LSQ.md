@@ -8,8 +8,6 @@ tags:
 
 Việt Nam và Nhật tham gia 2 công ước quốc tế khác nhau (Việt Nam - Vienna, Nhật Bản - Geneva) nên bằng lái xe không được công nhận lẫn nhau. Thế nhưng tại Việt Nam có thể đổi bằng lái xe Nhật sang Việt Nam ở Sở giao thông vận tải các tỉnh.  
 
-![Bằng lái xe Việt Nam](https://i.imgur.com/9ygLKQC.png)
-
 <!-- more -->
 
 Chi tiết về hồ sơ này xem tại trang web Dịch vụ công Quốc gia tại [đây](https://dichvucong.gov.vn/p/home/dvc-tthc-thu-tuc-hanh-chinh-chi-tiet.html?ma_thu_tuc=170153).
