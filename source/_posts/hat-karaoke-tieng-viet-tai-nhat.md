@@ -5,10 +5,24 @@ tags:
     - bachpack
     - vlog
 ---
+
+CẬP NHẬT 2022: lần gần nhất mình đi hát thì đã không còn dùng được cách này nữa. Thay vào đó thì mình có thể cắm vào cổng HDMI để phát từ điện thoại / máy tính.
+
+![Hướng dẫn](https://imgur.com/aLFTBEE)
+
+Lúc đăng ký thì bạn bảo họ cho mượn cáp kết nối thì sẽ được cáp hdmi + đầu chuyển đổi để kết nối từ điện thoại thế này nhé.
+
+[Dây cáp](https://imgur.com/aCLV4zL)
+
+Mình mang máy tính đi để chọn bài luôn cho tiện =))
+
+---Bài cũ---
+
 Lúc mới đến Nhật mà muốn hát karaoke thì mình phải tìm đến các quán Việt Nam có trang bị dàn karaoke giống như ở nhà. Từ khi tìm ra cách hát trên dàn máy Joysound thì có thể hát các bài hát tiếng Việt trên Youtube rồi, hầu như ở đâu cũng hát được. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vi2Q5nwvvG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- more -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vi2Q5nwvvG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ở Nhật có 2 loại đầu máy là [DAM](https://www.clubdam.com/) và [Joysound](https://www.joysound.com/web/), các quán karaoke sẽ trang bị đầu Karaoke của 1 trong 2 hãng này. Như trong clip mình đi hát ở cửa hàng của Joysound tại Shinjuku luôn.
 
