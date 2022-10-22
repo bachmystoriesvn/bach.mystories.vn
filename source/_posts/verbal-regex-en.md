@@ -51,11 +51,11 @@ The generated `Regex` from the above code is: `/^(?:http)(?:s)?(?:\:\/\/)(?:[^ ]
 
 VerbalExpressions solve the biggest probelem of `Regex`. It is readable and easy-to-understand regular expressions. In my opinion, the transition from `Regex` to `VerbalExpressions` is great as the movement from `SQL` to `ORM`.  
 
-Anyways, `VerbalExpressions` still have some drawbacks. You need to install a new library to your project, sometimes it is quite painful (e.g. you client, manager... don't think it's neccessary). In that case, you can go to [VerbalRegex](https://verbalregex.com/); write the code and it will generate the `Regex` for you.
+Anyways, `VerbalExpressions` still have some drawbacks. You need to install a new library to your project, sometimes it is quite painful (e.g. you client, manager... don't think it's neccessary). In that case, you can go to [VerbalRegex](http://verbalregex.mystories.vn/); write the code and it will generate the `Regex` for you.
 
 ![Online tool for generating Regex](https://i.imgur.com/w0uMzYE.png)
 
-Try this tool by accessing [verbalregex.com](https://verbalregex.com/).
+Try this tool by accessing [http://verbalregex.mystories.vn/](http://verbalregex.mystories.vn/).
 
 ### Conclusion
 

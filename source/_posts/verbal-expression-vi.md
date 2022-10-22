@@ -45,10 +45,10 @@ Công dụng của đoạn code trên có lẽ các bạn đều đã hiểu; đ
 
 VerbalExpressions đã giải quyết được vấn đề lớn nhất của regex là khó đọc, khó nhớ. Tiện lợi cũng như chúng ta chuyển từ viết query SQL sang dùng ORM vậy. Bên cạnh đó cú pháp đơn giản, dễ dùng và rất quen thuộc với lập trình viên; giúp người sử dụng có thể viết được đoạn code sinh ra regex cần thiết chỉ sau ít phút làm quen với VerbalExpressions.
 
-Tuy nhiên VerbalExpressions có 1 nhược điểm là cần phải import thư viện vào mới sử dụng được; việc này có thể khá mất công nếu chỉ có 1 đoạn nhỏ cần xử lý. Chưa kể đối với những dự án mà khách hàng kiểm tra dependency sát sao thì có thể sẽ không được dùng. Trong trường hợp đó các bạn có thể sử dụng [VerbalRegex](https://verbalregex.com/) để code và sinh ra regex, sau đó sử dụng thư viện regex mặc định của ngôn ngữ là vấn đề sẽ được giải quyết.
+Tuy nhiên VerbalExpressions có 1 nhược điểm là cần phải import thư viện vào mới sử dụng được; việc này có thể khá mất công nếu chỉ có 1 đoạn nhỏ cần xử lý. Chưa kể đối với những dự án mà khách hàng kiểm tra dependency sát sao thì có thể sẽ không được dùng. Trong trường hợp đó các bạn có thể sử dụng [VerbalRegex](http://verbalregex.mystories.vn/) để code và sinh ra regex, sau đó sử dụng thư viện regex mặc định của ngôn ngữ là vấn đề sẽ được giải quyết.
 
 ![Công cụ online hỗ trợ xây dựng xây dựng regex](https://i.imgur.com/w0uMzYE.png)
 
-Các bạn có thể sử dụng tool trên tại [verbalregex.com](https://verbalregex.com/).
+Các bạn có thể sử dụng tool trên tại [http://verbalregex.mystories.vn/](http://verbalregex.mystories.vn/).
 
 VerbalExpressions không thể thay thế cho regex, cũng giống như ORM không thể thay cho những câu query được. Chúng ta vẫn cần phải sử dụng regex cho những trường hợp phức tạp. Tuy nhiên VerbalExpressions là 1 cách sử dụng regex gián tiếp hiệu quả và dễ dùng, đơn giản hoá việc xây dựng những đoạn regex "lạ" mà chúng ta "không may" gặp phải.
