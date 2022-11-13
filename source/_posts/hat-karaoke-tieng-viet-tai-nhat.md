@@ -8,11 +8,11 @@ tags:
 
 CẬP NHẬT 2022: lần gần nhất mình đi hát thì đã không còn dùng được cách này nữa. Thay vào đó thì mình có thể cắm vào cổng HDMI để phát từ điện thoại / máy tính.
 
-![Hướng dẫn](https://imgur.com/aLFTBEE)
+![Hướng dẫn](https://i.imgur.com/aLFTBEE.jpeg)
 
 Lúc đăng ký thì bạn bảo họ cho mượn cáp kết nối thì sẽ được cáp hdmi + đầu chuyển đổi để kết nối từ điện thoại thế này nhé.
 
-[Dây cáp](https://imgur.com/aCLV4zL)
+![Dây cáp](https://i.imgur.com/aCLV4zL.jpeg)
 
 Mình mang máy tính đi để chọn bài luôn cho tiện =))
 
