@@ -48,4 +48,4 @@ Gần đây mình có thuê xe đi chơi, xuất phát từ 5h sáng. Mùa thu t
 Vài lưu ý:
 - Khi gọi điện tả hư hỏng của xe thì có nhiều bộ phận mình không biết tên tiếng Nhật là gì, các bạn có thể xem ở [đây](https://ginnotamagoblog.com/car-body-part-names/) hoặc search 車の部位 名称 
 - Nhấn mạnh lại là hãy mua tối đa các gói bảo hiểm, như ở タイムズカー thì là gói 安心補償サービス với giá 330y/lần. Mặc định xe đã có bảo hiểm rồi nhưng không cover 100%, nếu không có gói này thì có khả năng sẽ phải trả thêm vài man phí NOC (Non Operation Charge - tiền bồi thường những ngày xe đi sửa không cho thuê được)
-- Thuê xe của タイムズカー khá rẻ, như mình lên Stage 4 thì có thể thuê xe 8 chỗ trong 48 tiếng hết 18142jpy, chỉ hơn 2000jpy/1 người (phí thuê xe 8900jpy, chạy 557km hết thêm 8912jpy, 330jpy bảo hiểm). Đi xa thì mình dùng times, đi gần thì dùng careco (do bãi xe careco gần nhà mình hơn và khá nhiều)
+- Thuê xe của タイムズカー khá rẻ, như mình lên Stage 4 thì có thể thuê xe 8 chỗ trong 48 tiếng hết 18142jpy, chỉ hơn 2000jpy/1 người (phí thuê xe 8900jpy, chạy 557km hết thêm 8912jpy, 330jpy bảo hiểm). Đi xa thì mình dùng times, đi gần thì dùng careco (do bãi xe careco gần nhà + nhiều xe hơn)
