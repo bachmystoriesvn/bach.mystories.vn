@@ -1,6 +1,6 @@
 ---
 title: Mạn đàm về báo cáo tầm nhìn nhân lực Nhật Bản
-date: 2021-06-10 21:21:21
+date: 2023-06-02 21:21:21
 tags:
     - thinking
 ---
